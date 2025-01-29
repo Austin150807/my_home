@@ -1,0 +1,5 @@
+stove
+oven
+fridge
+water dispenser
+dishwasher
